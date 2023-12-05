@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bootcamp</groupId>
-	<artifactId>employee-system-api</artifactId>
+	<artifactId>Calculator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>employee-system-api</name>
 	<description>Demo project for Spring Boot</description>

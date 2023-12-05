@@ -1,13 +1,15 @@
-package com.bootcamp.employeesystemapi;
+package com.bootcamp.calculatorsystemapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmployeeSystemApiApplication {
+public class CalculatorApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmployeeSystemApiApplication.class, args);
+		SpringApplication.run(CalculatorApiApplication.class, args);
 	}
 
 }
+
+

@@ -1,10 +1,10 @@
-package com.bootcamp.employeesystemapi;
+package com.bootcamp.calculatorsystemapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmployeeSystemApiApplicationTests {
+class CalculatorApiApplicationTests {
 
 	@Test
 	void contextLoads() {
